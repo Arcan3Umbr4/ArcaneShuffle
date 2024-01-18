@@ -1,0 +1,8 @@
+{
+    "Deck" : "Tarot Deck 01",
+    "Card" : [
+        { "id" : "0", "Name" : "The Fool", "Path" : "/img/01/fool.jpg", "Summary" : "Desc..." },
+        { "id" : "1", "Name" : "The Mage", "Path" : "/img/01/mage.jpg", "Summary" : "Desc..." }
+    ]
+
+}
